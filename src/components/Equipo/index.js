@@ -13,7 +13,7 @@ const Equipo = (props) => {
           <input
             type="color"
             className="input-color"
-            value={hexToRgba(colorPrimario, 0.6)}
+            value={colorPrimario}
             onChange={(event) => {
               actualizarColor(event.target.value, id);
             }}
