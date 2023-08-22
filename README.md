@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![image](https://github.com/achipre/organization/assets/107824859/6f0d51c3-5319-417c-bde4-f07c44df8a71)
 
 In the project directory, you can run:
 
